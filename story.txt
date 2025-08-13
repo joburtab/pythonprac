@@ -1,0 +1,2 @@
+hello i am <name> and i am <age> years old you konw whta i am <sex>
+and i live in <addrees> do you want to talk to me find me with <number >
